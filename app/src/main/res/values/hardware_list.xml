@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="hardware_list">
+        <item>Air conditioning</item>
+        <item>Battery</item>
+        <item>Bubble wrap</item>
+        <item>Candle</item>
+        <item>Clothes hampers</item>
+        <item>Clothes Hangers</item>
+        <item>Floor mat</item>
+        <item>Food container</item>
+        <item>Garbage bag</item>
+        <item>Glue</item>
+        <item>Grass shear</item>
+        <item>Garden tool set</item>
+        <item>Light bulb</item>
+        <item>Laundry bag</item>
+        <item>Laundry basket</item>
+        <item>Measuring tape</item>
+        <item>Paper</item>
+        <item>Paint</item>
+        <item>Scissor</item>
+        <item>Trash can</item>
+        <item>Vacuum filter</item>
+    </array>
+</resources>

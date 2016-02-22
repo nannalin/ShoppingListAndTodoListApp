@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="todo_list">
+        <item>Drop off dry cleaning</item>
+        <item>Drop off movie</item>
+        <item>Drop off book</item>
+        <item>Drop off a package</item>
+        <item>Pick up dry cleaning</item>
+        <item>Pick up a package</item>
+        <item>Rent movie</item>
+    </array>
+
+</resources>

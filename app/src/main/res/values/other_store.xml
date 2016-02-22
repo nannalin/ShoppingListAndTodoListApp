@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="other_list">
+        <item>Card</item>
+        <item>Car seat</item>
+        <item>Cargo Storage</item>
+        <item>Flowers</item>
+        <item>Gift</item>
+        <item>Leggings</item>
+        <item>Hat</item>
+        <item>Helmet</item>
+        <item>Pants</item>
+        <item>Shoes</item>
+        <item>Socks</item>
+        <item>Sweater</item>
+        <item>Swimsuits</item>
+        <item>Sunglasses</item>
+        <item>Toy</item>
+    </array>
+</resources>
